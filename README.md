@@ -1,10 +1,6 @@
 Welcome to our Amazon replica marketplace messenger! You can run and compile this project by simply running Server.java and then making as many instances as you want of Client.java. 
 
-Arav Popli - Submitted the Report 
-
-Irfan Firosh - Video Presentation
-
-Michelle Jyi - Submitted the Vocareum Workspace 
+Authors: Arav Popli, Michelle Jyi, Irfan Firosh, Lawrence Liu,and Lavangi Yadava 
 
 <ins>**Statistics.java**</ins>
 **Functionality:** 
